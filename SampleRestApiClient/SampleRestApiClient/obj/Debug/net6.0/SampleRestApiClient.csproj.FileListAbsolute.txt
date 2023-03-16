@@ -1,0 +1,7 @@
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.csproj.AssemblyReference.cache
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.AssemblyInfoInputs.cache
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.AssemblyInfo.cs
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tlau\Documents\GitHub\C#dotNet\SampleRestApiClient\SampleRestApiClient\obj\Debug\net6.0\SampleRestApiClient.MvcApplicationPartsAssemblyInfo.cache
